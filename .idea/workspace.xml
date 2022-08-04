@@ -20,9 +20,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="958d3907-b794-4532-bc14-3cf961a24a4f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/couple/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/couple/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/person/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/person/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/person/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/person/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/person/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/person/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/slider/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/slider/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/slider/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/slider/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/slider/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/slider/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/slider/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/slider/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/slider/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/slider/7.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/thoviet.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/slide.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,15 +73,20 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img/couple" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Working\dam-cuoi-quang-mai\img\couple" />
+      <recent name="D:\Working\dam-cuoi-quang-mai\img\slider" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -72,7 +98,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1659539282986</updated>
-      <workItem from="1659539284504" duration="2108000" />
+      <workItem from="1659539284504" duration="2338000" />
+      <workItem from="1659620332865" duration="6920000" />
     </task>
     <servers />
   </component>
@@ -89,15 +116,20 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="876" y="403" width="889" height="274" key="#Notifications" timestamp="1659540385695">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="876" y="403" width="889" height="274" key="#Notifications/62.0.1858.1080@62.0.1858.1080" timestamp="1659540385695" />
-    <state x="698" y="139" width="585" height="801" key="find.popup" timestamp="1659543047284">
+    <state x="721" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1659624119863">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state x="698" y="139" width="585" height="801" key="find.popup/62.0.1858.1080@62.0.1858.1080" timestamp="1659543047284" />
+    <state x="721" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1659624119863" />
+    <state x="698" y="139" width="585" height="801" key="find.popup" timestamp="1659623624623">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="698" y="139" width="585" height="801" key="find.popup/62.0.1858.1080@62.0.1858.1080" timestamp="1659623624623" />
   </component>
 </project>
