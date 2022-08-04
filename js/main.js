@@ -58,39 +58,6 @@
 
     });
 
-    /*================================
-     Gift-carousel
-     ==================================*/
-    function gift_carousel() {
-        var owl = $(".Gift-carousel");
-        owl.owlCarousel({
-            loop: true,
-            margin: 0,
-            navText: false,
-            nav: false,
-            items: 5,
-            smartSpeed: 1000,
-            dots: false,
-            autoplay: true,
-            autoplayTimeout: 3000,
-            responsive: {
-                0: {
-                    items: 3
-                },
-                480: {
-                    items: 2
-                },
-                760: {
-                    items: 4
-                },
-                1080: {
-                    items: 4
-                }
-            }
-        });
-    }
-    gift_carousel();
-
 
 /*================================
     slicknav
