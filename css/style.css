@@ -2308,6 +2308,9 @@ h4.comment-title {
   -ms-border-radius: 50%;
   border-radius: 50%;
 }
+.music-box button.map {
+  right: 42px;
+}
 .music-box.music-box-2 button {
     color: #5e9a8e;
 }
