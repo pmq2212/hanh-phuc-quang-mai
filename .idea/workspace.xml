@@ -21,8 +21,40 @@
   <component name="ChangeListManager">
     <list default="true" id="958d3907-b794-4532-bc14-3cf961a24a4f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/counter/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/counter/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/couple/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/couple/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/couple/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/couple/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/couple/61.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/footer/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/footer/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/enagagement/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/gallery/enagagement/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/enagagement/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/gallery/enagagement/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/enagagement/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/gallery/enagagement/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/enagagement/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/gallery/enagagement/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/enagagement/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/gallery/enagagement/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/parties/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/gallery/parties/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/parties/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/gallery/parties/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/pre-wedding/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/gallery/pre-wedding/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/pre-wedding/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/gallery/pre-wedding/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/pre-wedding/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/gallery/pre-wedding/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/pre-wedding/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/gallery/pre-wedding/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/pre-wedding/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/gallery/pre-wedding/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/pre-wedding/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/gallery/pre-wedding/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/pre-wedding/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/gallery/pre-wedding/7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gift/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gift/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gift/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/guest/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/guest/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/guest/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/service/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/service/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/service/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/service/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/service/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/slider/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/slider/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/slider/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/slider/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/slider/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/slider/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/slider/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/slider/4.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +113,8 @@
       <option name="presentableId" value="Default" />
       <updated>1659539282986</updated>
       <workItem from="1659539284504" duration="2338000" />
-      <workItem from="1659620332865" duration="10780000" />
+      <workItem from="1659620332865" duration="11494000" />
+      <workItem from="1659708637393" duration="3246000" />
     </task>
     <servers />
   </component>
@@ -109,9 +142,9 @@
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="721" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1659624119863" />
-    <state x="698" y="139" width="585" height="801" key="find.popup" timestamp="1659632073578">
+    <state x="698" y="139" width="585" height="801" key="find.popup" timestamp="1659713437434">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state x="698" y="139" width="585" height="801" key="find.popup/62.0.1858.1080@62.0.1858.1080" timestamp="1659632073578" />
+    <state x="698" y="139" width="585" height="801" key="find.popup/62.0.1858.1080@62.0.1858.1080" timestamp="1659713437434" />
   </component>
 </project>

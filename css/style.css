@@ -2309,7 +2309,7 @@ h4.comment-title {
   border-radius: 50%;
 }
 .music-box button.map {
-  right: 42px;
+  right: 45px;
 }
 .music-box.music-box-2 button {
     color: #5e9a8e;
@@ -2318,6 +2318,9 @@ h4.comment-title {
   .music-box button {
     right: auto;
     left: 0;
+  }
+  .music-box button.map {
+    bottom: 45px;
   }
 }
 
