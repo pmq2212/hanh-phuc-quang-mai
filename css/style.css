@@ -438,7 +438,7 @@ slider-area
 }
 
 .slider-content span {
-    font-size: 24px;
+    font-size: 20px;
     color: #fff;
 }
 .slider-content span p{
@@ -447,10 +447,11 @@ slider-area
 
 .slider-content h4 {
     font-family: 'Great Vibes', cursive;
-    font-size: 72px;
+    font-size: 53px;
     color: #fff;
     text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.6);
     margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .slider-content p {
@@ -679,14 +680,14 @@ couple-area end
 }
 .clock-area {
     background: #5e9a8d;
-    padding: 14px 5px 20px 20px;
+    padding: 17px 5px 20px 20px;
 }
 .count-down-area:before {
     content: "";
     width: 100%;
     height: 100%;
     position: absolute;
-    background: #5e9a8e;
+    /*background: #5e9a8e;*/
     opacity: .8;
     left: 0;
     top: 0;
@@ -731,14 +732,13 @@ couple-area end
 @media (max-width: 1199px) {
     .count-down-section h2>span {
         font-size: 25px;
-        font-size: 1.38889rem;
+        font-size: 2.1rem;
     }
 }
 
 @media (max-width: 767px) {
     .count-down-section h2>span {
-        font-size: 60px;
-        font-size: 1.11111rem;
+        font-size: 1.5rem;
     }
 }
 
@@ -750,12 +750,16 @@ couple-area end
 }
 
 .count-down-section #clock>div {
-    width: 18%;
+    width: 21%;
     float: left;
     text-align: center;
     border: 1px solid rgba(255,255,255, 0.2);
     color: #fff;
     padding: 20px 0;
+}
+
+.count-down-section #clock>div:first-child {
+    margin-left: 4%;
 }
 
 @media (max-width: 767px) {
@@ -778,12 +782,16 @@ couple-area end
         flex-basis: calc(100% * (1/2) - 10px);
         margin-bottom: 20px;
     }
+    .count-down-section #clock>div:first-child {
+        margin-left: 0;
+    }
     .count-down-section #clock {
-        margin-right: 15px;
+        margin-left: auto;
     }
     .clock-area {
         padding: 14px 5px 0px 20px;
     }
+
 }
 
 .count-down-section #clock .box>div {
@@ -839,16 +847,6 @@ couple-area end
     height: 100%;
     background: rgba(94, 154, 140, 0.88);
     z-index: -1;
-}
-
-
-.section-area h2 {
-    font-size: 45px;
-    text-align: center;
-    border: 1px solid rgba(255,255,255, 0.2);
-    padding: 17.25px 45px;
-    display: inline-block;
-    margin-left: 23px;
 }
 
 /*===============================
@@ -1140,7 +1138,7 @@ welcome-area
     left: 0;
     width: 100%;
     height: 100%;
-    background: #649e93;
+    /*background: #649e93;*/
     opacity: .9;
 }
 
@@ -1669,12 +1667,15 @@ home-page2
 }
 
 .section-area h2 {
+    width: 100%;
     font-size: 45px;
     text-align: center;
-    border: 1px solid rgba(255,255,255, 0.2);
-    padding: 17px 45px;
+    /*border: 1px solid rgba(255,255,255, 0.2);*/
+    padding-top: 17px;
+    padding-right: auto;
+    padding-left: auto;
+    padding-bottom: 17px;
     display: inline-block;
-    margin-left: 10px;
 }
 .couple-img3{
     overflow: hidden;

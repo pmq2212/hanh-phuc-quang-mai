@@ -11,7 +11,7 @@
             }
 
             .section-area h2 {
-                font-size: 35px;
+                font-size: 40.5px;
             }
             .section-sub {
                 margin-top: 10px;
@@ -80,7 +80,7 @@
                 top: 202px;
             }
             .clock-area {
-                padding: 9px 5px 5px 20px;
+                padding: 12px 5px 5px 20px;
             }
             .couple-content2 p {
                 padding: 1px 20px 6px;
@@ -164,6 +164,9 @@
                 top: 38px;
                 left: 33%;
             }
+            .count-down-section #clock {
+                margin-top: 0;
+            }
             .clock-area {
                 padding: 14px 5px 5px 13px;
             }
@@ -171,7 +174,6 @@
                 font-size: 34px;
                 text-align: center;
                 padding: 10px 7px;
-                margin-left: 10px;
                 margin-top: 10px;
                 color: #fff;
             }
@@ -245,13 +247,15 @@
                 margin-top: 50px;
             }
             .slider-content h4 {
-                font-size: 40px;
+                font-size: 28px;
+                margin-top: 9px;
+                margin-bottom: 9px;
             }
             .slider-content p {
-                font-size: 20px;
+                font-size: 18px;
             }
             .slider-content span {
-                font-size: 18px;
+                font-size: 12px;
                 color: #fff;
             }
         }
@@ -280,13 +284,15 @@ extra small mobile 320px.
                 margin: auto;
             }
             .slider-content h4 {
-                font-size: 40px;
+                font-size: 27px;
+                margin-top: 10px;
+                margin-bottom: 10px;
             }
             .slider-content p {
                 font-size: 20px;
             }
             .slider-content span {
-                font-size: 18px;
+                font-size: 12px;
                 color: #fff;
             }
             .slider-content2 p {
@@ -299,6 +305,9 @@ extra small mobile 320px.
             .slider-content2 span {
                 left: 14%;
                 top: -12px;
+            }
+            .section-area {
+                text-align: center;
             }
             .section-area h2 {
                 font-size: 27px;
