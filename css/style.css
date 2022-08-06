@@ -708,13 +708,6 @@ couple-area end
     }
 }
 
-@media (max-width: 767px) {
-    .count-down-section h2 {
-        font-size: 50px;
-        font-size: 2.77778rem;
-    }
-}
-
 .count-down-section h2>span {
     font-size: 30px;
     display: block;
@@ -738,7 +731,7 @@ couple-area end
 
 @media (max-width: 767px) {
     .count-down-section h2>span {
-        font-size: 1.5rem;
+        font-size: 2.2rem;
     }
 }
 
@@ -1126,7 +1119,8 @@ welcome-area
 =================================*/
 
 .welcome-area {
-    background: linear-gradient(rgba(0, 0, 0, 0.81), rgba(100, 158, 147, 0.81)), transparent url(../img/1.jpg) no-repeat center center / cover fixed;
+    background: linear-gradient(rgba(0, 0, 0, 0.81), rgba(100, 158, 147, 0.81)), transparent url(../img/1.jpg) no-repeat center center;
+    background-size: cover;
     padding-top: 85px;
     padding-bottom: 95px;
 }
@@ -1183,13 +1177,21 @@ welcome-area
 service-area
 =================================*/
 
-.service-area-menu ul li {
-    display: inline-block;
-    padding: 10px 0;
-}
-
 .service-area-menu ul {
     justify-content: space-around;
+}
+.service-area ul li {
+    font-size: 1.7rem;
+    color: #a9a9a9;
+    position: relative;
+    padding-left: 22px;
+}
+
+.service-area ul li i {
+    color: #5e9a8e;
+    position: absolute;
+    left: 0;
+    top: 5px;
 }
 
 .service-area-menu li a {
@@ -1205,11 +1207,6 @@ service-area
 .service-area-menu li a:hover {
     background: #4e7b72;
     color: #fff;
-}
-
-.service-area-menu ul {
-    margin-top: 50px;
-    background: #649e93;
 }
 
 .ceromony-content2 {

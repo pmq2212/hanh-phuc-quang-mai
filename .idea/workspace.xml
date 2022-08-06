@@ -23,9 +23,12 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/responsive.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/pre-wedding/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/gallery/pre-wedding/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/pre-wedding/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gallery/pre-wedding/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/slider/4.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/slide.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/slide.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +88,8 @@
       <updated>1659539282986</updated>
       <workItem from="1659539284504" duration="2338000" />
       <workItem from="1659620332865" duration="11494000" />
-      <workItem from="1659708637393" duration="12533000" />
+      <workItem from="1659708637393" duration="12648000" />
+      <workItem from="1659755452151" duration="5221000" />
     </task>
     <servers />
   </component>
@@ -113,9 +117,9 @@
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="721" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1659624119863" />
-    <state x="698" y="139" width="585" height="801" key="find.popup" timestamp="1659714319593">
+    <state x="698" y="139" width="585" height="801" key="find.popup" timestamp="1659756561112">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state x="698" y="139" width="585" height="801" key="find.popup/62.0.1858.1080@62.0.1858.1080" timestamp="1659714319593" />
+    <state x="698" y="139" width="585" height="801" key="find.popup/62.0.1858.1080@62.0.1858.1080" timestamp="1659756561112" />
   </component>
 </project>
