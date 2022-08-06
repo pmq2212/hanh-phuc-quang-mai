@@ -77,9 +77,12 @@
             rules: {
                 name: {
                     required: true,
-                    minlength: 2
+                    minlength: 4
                 },
-                email: "required",
+                email: {
+                    required: true,
+                    minlength: 8
+                },
 
                 guest: {
                     required: true
@@ -92,18 +95,19 @@
             },
 
             messages: {
-                name: "Please enter your name",
-                email: "Please enter your email",
-                guest: "Select your number of guest",
-                events: "Select your event list"
+                name: "Bạn chưa nhập họ tên.",
+                email: "Bạn chưa nhập email.",
+                guest: "Bạn chưa chọn số lượng khách.",
+                events: "Bạn chưa chọn sự kiện"
             },
 
             submitHandler: function (form) {
+                var params = $(form).serialize();
                 $("#loader").css("display", "inline-block");
                 $.ajax({
-                    type: "POST",
-                    url: "mail.php",
-                    data: $(form).serialize(),
+                    type: "GET",
+                    url: "https://script.google.com/macros/s/AKfycbycz38PFfhU2Xd2_cu_qwQ8nmllQ8qUJvxqqgrom6qLpQTd_3XG_lk0gNZCKIqnnAry/exec",
+                    data: params,
                     success: function () {
                         $( "#loader").hide();
                         $( "#success").slideDown( "slow" );

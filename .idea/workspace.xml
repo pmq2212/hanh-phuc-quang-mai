@@ -20,15 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="958d3907-b794-4532-bc14-3cf961a24a4f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/responsive.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/pre-wedding/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/gallery/pre-wedding/5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/pre-wedding/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/pre-wedding/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/slider/4.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +54,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/img/couple" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -66,6 +63,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.CSS" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -89,7 +87,9 @@
       <workItem from="1659539284504" duration="2338000" />
       <workItem from="1659620332865" duration="11494000" />
       <workItem from="1659708637393" duration="12648000" />
-      <workItem from="1659755452151" duration="5221000" />
+      <workItem from="1659755452151" duration="5455000" />
+      <workItem from="1659795017626" duration="4258000" />
+      <workItem from="1659800514057" duration="7554000" />
     </task>
     <servers />
   </component>
@@ -117,9 +117,13 @@
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="721" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1659624119863" />
-    <state x="698" y="139" width="585" height="801" key="find.popup" timestamp="1659756561112">
+    <state x="492" y="185" key="SettingsEditor" timestamp="1659797850149">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state x="698" y="139" width="585" height="801" key="find.popup/62.0.1858.1080@62.0.1858.1080" timestamp="1659756561112" />
+    <state x="492" y="185" key="SettingsEditor/62.0.1858.1080@62.0.1858.1080" timestamp="1659797850149" />
+    <state x="698" y="139" width="585" height="801" key="find.popup" timestamp="1659798847996">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="698" y="139" width="585" height="801" key="find.popup/62.0.1858.1080@62.0.1858.1080" timestamp="1659798847996" />
   </component>
 </project>
