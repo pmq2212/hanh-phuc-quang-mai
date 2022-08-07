@@ -127,9 +127,12 @@
                 text-align: center;
                 margin-bottom: 30px;
             }
+            .section-title h2 {
+                margin-bottom: 50px;
+            }
             .section-title h2:before {
                 width: 44%;
-                height: 139%;
+                height: 142%;
                 top: 6px;
                 left: 28%;
             }
