@@ -23,6 +23,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +90,7 @@
       <workItem from="1659795017626" duration="4258000" />
       <workItem from="1659800514057" duration="7554000" />
       <workItem from="1659837690794" duration="11770000" />
-      <workItem from="1659870496616" duration="6008000" />
+      <workItem from="1659870496616" duration="9032000" />
     </task>
     <servers />
   </component>
@@ -129,9 +130,9 @@
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="833" y="237" key="VCS.ChangeListViewerDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1659876442744" />
-    <state x="698" y="139" width="585" height="801" key="find.popup" timestamp="1659880025767">
+    <state x="698" y="139" width="585" height="801" key="find.popup" timestamp="1659883335858">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state x="698" y="139" width="585" height="801" key="find.popup/62.0.1858.1080@62.0.1858.1080" timestamp="1659880025767" />
+    <state x="698" y="139" width="585" height="801" key="find.popup/62.0.1858.1080@62.0.1858.1080" timestamp="1659883335858" />
   </component>
 </project>

@@ -5,6 +5,8 @@
 ==========================================*/
 
 (function($) {
+    var audio = new Audio('https://raw.githubusercontent.com/pmq2212/hanh-phuc-quang-mai/master/music/hon_ca_yeu.mp3');
+    var isFirst = true;
     var swiper = new Swiper('.swiper-container', {
         loop: true,
         speed: 4000,
@@ -25,9 +27,15 @@
         $('.slider-two').addClass('scontent_loaded');
         $('.slider-parallax').addClass('scontent_loaded');
         sliderLoadedAddClass();
-        preloader()
+        preloader();
     })
 
+    window.onclick = function (e) {
+        if (isFirst) {
+            playAudio(true);
+            isFirst = false;
+        }
+    }
 
 
     /*================================
@@ -315,13 +323,21 @@
         = TOGGLE MUSUC BIX
     -------------------------------------------*/
     if($(".music-box").length) {
-        var musicBtn = $(".music-box-toggle-btn"),
-            musicBox = $(".music-holder");
+        var musicBtn = $(".music-box-toggle-btn");
 
         musicBtn.on("click", function() {
-            musicBox.toggleClass("toggle-music-box");
+            playAudio();
             return false;
         })
+    }
+
+    function playAudio(play) {
+        if (audio.paused) {
+            audio.loop = true;
+            audio.play();
+        } else if (!play) {
+            audio.pause();
+        }
     }
 
 
