@@ -102,6 +102,7 @@
             },
 
             submitHandler: function (form) {
+                if ($("#loader").css("display") === "inline-block") return 0;
                 var params = $(form).serialize();
                 $("#loader").css("display", "inline-block");
                 $.ajax({
@@ -113,7 +114,7 @@
                         $( "#success").slideDown( "slow" );
                         setTimeout(function() {
                         $( "#success").slideUp( "slow" );
-                        }, 3000);
+                        }, 5000);
                         form.reset();
                     },
                     error: function() {
@@ -121,7 +122,7 @@
                         $( "#error").slideDown( "slow" );
                         setTimeout(function() {
                         $( "#error").slideUp( "slow" );
-                        }, 3000);
+                        }, 5000);
                     }
                 });
                 return false; // required to block normal submit since you used ajax
