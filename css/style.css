@@ -1562,6 +1562,9 @@ Gift-area
     text-align: center;
     padding-top: 1.5rem;
 }
+#modal-gift .modal-header {
+    padding-left: 4rem;
+}
 #modal-gift .modal-header button {
     font-size: 40px;
     line-height: 0;
