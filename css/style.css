@@ -2297,8 +2297,8 @@ h4.comment-title {
 
 .music-box button {
   background: rgba(0, 0, 0, 0.1);
-  width: 40px;
-  height: 40px;
+  width: 50px;
+  height: 50px;
   line-height: 35px;
   font-size: 18px;
   color: #9a8c40;
@@ -2327,7 +2327,7 @@ h4.comment-title {
     left: 0;
   }
   .music-box button.map {
-    bottom: 45px;
+    bottom: 55px;
   }
 }
 
