@@ -142,7 +142,7 @@ Home-page-one
     width: 100%;
     z-index: 9999;
     background-color: #fff;
-    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
     -webkit-transition: background 0.3s ease 0s;
     -o-transition: background 0.3s ease 0s;
     transition: background 0.3s ease 0s;
@@ -158,7 +158,7 @@ Home-page-one
 
 .main-menu .submenu li a {
     padding: 10px 15px;
-    color: :#333;
+    color:#333;
 }
 
 .main-menu nav ul {
@@ -409,18 +409,6 @@ slider-area
     background: url(../img/slider/3.jpg) no-repeat center center / cover;
 }
 
-.single-slider2 {
-    background: url(../img/slider/5.jpg) no-repeat center center / cover;
-}
-
-.slider-4 {
-    background: url(../img/slider/4.jpg) no-repeat center center / cover;
-}
-
-.slider-5 {
-    background: url(../img/slider/2.jpg) no-repeat center center / cover;
-}
-
 
 .swiper-container {
     height:100vh;
@@ -563,7 +551,7 @@ couple-area
     position: relative;
     font-size: 50px;
     font-family: 'Great Vibes', cursive;
-    margin-bottom: 50px;
+    margin-bottom: 30px;
     color: #649e93;
 }
 
@@ -1118,12 +1106,12 @@ Story-Area
 welcome-area
 =================================*/
 
-.welcome-area {
-    background: linear-gradient(rgba(0, 0, 0, 0.81), rgba(100, 158, 147, 0.81)), transparent url(../img/1.jpg) no-repeat center center;
-    background-size: cover;
-    padding-top: 85px;
-    padding-bottom: 95px;
-}
+/*.welcome-area {*/
+/*    background: linear-gradient(rgba(0, 0, 0, 0.81), rgba(100, 158, 147, 0.81)), transparent url(../img/1.jpg) no-repeat center center;*/
+/*    background-size: cover;*/
+/*    padding-top: 85px;*/
+/*    padding-bottom: 95px;*/
+/*}*/
 
 .welcome-area:before {
     content: "";
@@ -1533,7 +1521,29 @@ select.form-control:not([size]):not([multiple]) {
 Gift-area
 ==========================*/
 .gift-item {
-    padding: 70px 0;
+    padding: 30px 0;
+    text-align: center;
+}
+.gift-item button i {
+    color: #fff;
+    font-size: 22px;
+    margin-right: 5px;
+}
+.gift-item button {
+    padding: 9px 13px 8px 8px;
+    background: #5e9a8e;
+    border-radius: 10px;
+    font-family: 'Great Vibes', cursive;
+    font-size: 19px;
+    color: #fff;
+    border: none;
+}
+.gift-item button:focus,.gift-item button:hover,.gift-item button:active,#modal-gift .modal-header button:focus, #modal-gift .modal-header button:active {
+    border: none;
+    outline: 0;
+}
+.gift-item button:first-child {
+    margin-right: 20px;
 }
 
 .owl-carousel .owl-item img {
@@ -1542,6 +1552,16 @@ Gift-area
 .Gift-area p {
     max-width: 640px;
     margin:0 auto;
+}
+
+#modal-gift .modal-body {
+    text-align: center;
+    padding-top: 1.5rem;
+}
+#modal-gift .modal-header button {
+    font-size: 40px;
+    line-height: 0;
+    padding: 1.6rem 1rem 2.2rem
 }
 
 /*=============================
@@ -1605,17 +1625,17 @@ footer-area
 /*=================================
 home-page2
 ===================================*/
-.slider-content2 h4 {
-    font-size: 72px;
-    font-family: 'Great Vibes', cursive;
-    background: url(../img/slider/2.png) no-repeat center center / cover;
-    padding: 54px;
-    width: 657px;
-    height: 200px;
-    margin: auto;
-    color: #fff;
-    position: relative;
-}
+/*.slider-content2 h4 {*/
+/*    font-size: 72px;*/
+/*    font-family: 'Great Vibes', cursive;*/
+/*    background: url(../img/slider/2.png) no-repeat center center / cover;*/
+/*    padding: 54px;*/
+/*    width: 657px;*/
+/*    height: 200px;*/
+/*    margin: auto;*/
+/*    color: #fff;*/
+/*    position: relative;*/
+/*}*/
 .slider-content2 {
     margin-top: 87px;
     position: relative;
@@ -1686,11 +1706,11 @@ home-page2
      transform: scale(1.2);
 }
 
-.welcome-area2 {
-    background: url(../img/guest/2.jpg) no-repeat center center / cover;
-    position: relative;
-    background-attachment: fixed;
-}
+/*.welcome-area2 {*/
+/*    background: url(../img/guest/2.jpg) no-repeat center center / cover;*/
+/*    position: relative;*/
+/*    background-attachment: fixed;*/
+/*}*/
 
 .welcome-area2:before {
     position: absolute;
@@ -1758,13 +1778,13 @@ home-page2
 /*============================================
 Blog
 *=============================================*/
-.crumbs-area {
-    position: relative;
-    z-index: 1;
-    padding: 200px 0px 110px;
-    text-align: center;
-    background: url(../img/blog/3.jpg) center center/cover no-repeat;
-}
+/*.crumbs-area {*/
+/*    position: relative;*/
+/*    z-index: 1;*/
+/*    padding: 200px 0px 110px;*/
+/*    text-align: center;*/
+/*    background: url(../img/blog/3.jpg) center center/cover no-repeat;*/
+/*}*/
 
 .crumbs-area:before {
     content: '';

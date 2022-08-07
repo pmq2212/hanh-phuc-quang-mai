@@ -21,8 +21,8 @@
             }
             .section-title h2:before {
                 width: 28%;
-                height: 17%;
-                top: -17px;
+                height: 129%;
+                top: 12px;
                 left: 36%;
             }
             .section-title h2:after {
@@ -129,9 +129,9 @@
             }
             .section-title h2:before {
                 width: 44%;
-                height: 22%;
-                top: -16px;
-                left: 29%;
+                height: 139%;
+                top: 6px;
+                left: 28%;
             }
             .section-title h2:after {
                 width: 45%;
@@ -329,10 +329,10 @@ extra small mobile 320px.
                 display: none;
             }
             .section-title h2:before {
-                width: 60%;
-                height: 22%;
-                top: -13px;
-                left: 22%;
+                width: 66%;
+                height: 80px;
+                top: -5px;
+                left: 17%;
             }
             .section-title h2:after {
                 width: 60%;
@@ -354,7 +354,7 @@ extra small mobile 320px.
                 padding: 70px 15px;
             }
             .section-title h2 {
-                font-size: 30px;
+                font-size: 36px;
             }
             .service-area-menu li a {
                 padding: 10px 25px;
@@ -549,6 +549,17 @@ extra small mobile 320px.
             .header-area.header-area-3 .slicknav_menu .slicknav_icon-bar {
              background-color: #fff;
             }
+            .gift-item button:first-child {
+                margin-right: 10px;
+            }
+            .gift-item button {
+                padding: 6px 9px 2px 6px;
+                font-size: 17px;
+                border-radius: 8px;
+            }
+            .gift-item button i {
+                font-size: 19px;
+            }
         }
         /* =============================
 extra small mobile 320px. end
@@ -594,9 +605,9 @@ extra small mobile 320px. end
             }
             .section-title h2:before {
                 width: 46%;
-                height: 16%;
-                top: -16px;
-                left: 29%;
+                height: 116%;
+                top: 17px;
+                left: 28%;
             }
             .section-title h2:after {
                 width: 46%;
